@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167307479938",
+    "project_id": "tiktoktask-fd749",
+    "storage_bucket": "tiktoktask-fd749.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167307479938:android:61fd187826ed767e8add9b",
+        "android_client_info": {
+          "package_name": "com.example.tiktask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSR8XLvvOjdouV9hq8iO5TnYpHU8adq5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
